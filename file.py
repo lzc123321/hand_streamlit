@@ -6,7 +6,7 @@ temp = pathlib.PosixPath
 pathlib.PosixPath = pathlib.WindowsPath
 
 import yolov5
-model = yolov5.load("best.pt")  # 加载 YOLOv5s 模型
+model = yolov5.load("best_m.pt")  # 加载 YOLOv5s 模型
 
 import streamlit as st
 

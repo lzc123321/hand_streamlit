@@ -1,2 +1,4 @@
 [client]
 showWarningOnDirectExecution = false
+[global]
+showWarningOnDirectExecution = true
